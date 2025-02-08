@@ -1,5 +1,5 @@
 <img align="top" alt="coding" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
-<h1 align="center">Hi 👋, I'm Adem Mohamoud Ali</h1>
+<h1 align="center">Hi 👋, I'm Abdimajiid Abdullahi Roble</h1>
 <h3 align="center">A passionate Mobile and Fullstack Developer from Somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaybka&label=Profile%20views&color=0e75b6&style=flat" alt="shaybka" /> </p>
@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/adem" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="adem" /></a> </p>
 
-- 🔭 I’m currently working on [FoundItJobPortal](https://foundit-jobportal.vercel.app/)
 
 - 🌱 I’m currently learning *Flutter, Kotlin, Swift*
 
 - 💬 Ask me about *Flutter, Dart, Kotlin, Swift, React, PHP, JavaScript, Next.js*
 
-- 📫 How to reach me *adenmohmuud@gmail.com*
+- 📫 How to reach me *abdimajiid@gmail.com*
 
 - ⚡ Fun fact *"Code is like humor. When you have to explain it, it’s bad."*
 
